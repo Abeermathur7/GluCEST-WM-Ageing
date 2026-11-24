@@ -1,0 +1,8 @@
+# participant-level data and caches are not published
+_cache*/
+assets_3d/
+*.mat
+*.nii
+*.nii.gz
+__pycache__/
+.ipynb_checkpoints/
